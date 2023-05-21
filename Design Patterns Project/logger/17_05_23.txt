@@ -1,0 +1,116 @@
+0: 9: 41
+cold cup of chocolatemilk has begiging order
+0: 9: 41
+puring water and milk into a cup
+0: 9: 41
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+0: 9: 41
+adding ice cubes
+0: 9: 41
+addind 1 teaspoon of sugar
+0: 9: 41
+bisly has been orderd
+0: 10: 40
+shuggi has been orderd
+0: 12: 8
+orange juice bottole has been orderd
+0: 12: 8
+cold cup of chocolatemilk has begiging order
+0: 12: 8
+puring water and milk into a cup
+0: 12: 8
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+0: 12: 8
+adding ice cubes
+0: 12: 8
+addind 1 teaspoon of sugar
+10: 36: 58
+ice coffee has begiging order
+10: 36: 58
+puring water and milk into a cup
+10: 36: 58
+adding ice cubes
+10: 36: 58
+cold cup of chocolatemilk has begiging order
+10: 36: 58
+puring water and milk into a cup
+10: 36: 58
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+10: 36: 58
+adding ice cubes
+10: 36: 58
+addind 1 teaspoon of coffee
+10: 36: 58
+bisly has been orderd
+10: 36: 58
+shuggi has been orderd
+10: 39: 46
+puring water and milk into a cup
+10: 39: 46
+water is boiling
+10: 39: 46
+addind 1 teaspoon of sugar
+10: 39: 46
+cookies have been orderd
+10: 51: 39
+bamba has been orderd
+10: 51: 53
+bamba has been orderd
+10: 51: 58
+orange juice bottole has been orderd
+10: 52: 4
+puring water and milk into a cup
+10: 52: 4
+adding 2 ts of sugar and 2 ts of coffee
+10: 52: 4
+water is boiling
+10: 52: 4
+addind 2 teaspoons of sugar
+10: 52: 4
+addind 2 teaspoons of coffee
+10: 52: 16
+water bottole has been orderd
+10: 52: 16
+orange juice bottole has been orderd
+10: 52: 40
+ice coffee has begiging order
+10: 52: 40
+puring water and milk into a cup
+10: 52: 40
+adding 2 ts of sugar and 2 ts of coffee
+10: 52: 40
+adding ice cubes
+10: 52: 40
+addind 2 teaspoons of sugar
+10: 52: 40
+hot cup of chocolatemilk has begiging order
+10: 52: 40
+puring water and milk into a cup
+10: 52: 40
+adding 2 ts of sugar and 2 ts of chocolate milk powder
+10: 52: 40
+water is boiling
+10: 52: 40
+addind 2 teaspoons of coffee
+10: 52: 40
+bisly has been orderd
+10: 52: 40
+crackers have been orderd
+10: 57: 19
+ice coffee has begiging order
+10: 57: 19
+puring water and milk into a cup
+10: 57: 19
+adding 2 ts of sugar and 2 ts of coffee
+10: 57: 19
+adding ice cubes
+10: 57: 19
+addind 2 teaspoons of coffee
+10: 57: 19
+cookies have been orderd
+10: 57: 19
+addind 2 teaspoons of coffee
+10: 57: 40
+shuggi has been orderd
+10: 57: 47
+chips has been orderd

@@ -1,0 +1,87 @@
+C:\Users\USER\OneDrive\שולחן העבודה\ש.ב\New folder\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\שולחן העבודה\ש.ב\New folder\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.Form1.resources
+C:\Users\USER\OneDrive\שולחן העבודה\ש.ב\New folder\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\שולחן העבודה\ש.ב\New folder\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\שולחן העבודה\ש.ב\New folder\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\שולחן העבודה\ש.ב\New folder\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.AssemblyInfo.cs
+C:\Users\USER\OneDrive\שולחן העבודה\ש.ב\New folder\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\שולחן העבודה\ש.ב\New folder\BeverageVendingMachine\bin\Debug\net6.0-windows\BeverageVendingMachine.exe
+C:\Users\USER\OneDrive\שולחן העבודה\ש.ב\New folder\BeverageVendingMachine\bin\Debug\net6.0-windows\BeverageVendingMachine.deps.json
+C:\Users\USER\OneDrive\שולחן העבודה\ש.ב\New folder\BeverageVendingMachine\bin\Debug\net6.0-windows\BeverageVendingMachine.runtimeconfig.json
+C:\Users\USER\OneDrive\שולחן העבודה\ש.ב\New folder\BeverageVendingMachine\bin\Debug\net6.0-windows\BeverageVendingMachine.dll
+C:\Users\USER\OneDrive\שולחן העבודה\ש.ב\New folder\BeverageVendingMachine\bin\Debug\net6.0-windows\BeverageVendingMachine.pdb
+C:\Users\USER\OneDrive\שולחן העבודה\ש.ב\New folder\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.dll
+C:\Users\USER\OneDrive\שולחן העבודה\ש.ב\New folder\BeverageVendingMachine\obj\Debug\net6.0-windows\refint\BeverageVendingMachine.dll
+C:\Users\USER\OneDrive\שולחן העבודה\ש.ב\New folder\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.pdb
+C:\Users\USER\OneDrive\שולחן העבודה\ש.ב\New folder\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.genruntimeconfig.cache
+C:\Users\USER\OneDrive\שולחן העבודה\ש.ב\New folder\BeverageVendingMachine\obj\Debug\net6.0-windows\ref\BeverageVendingMachine.dll
+C:\Users\גנוט הדסה\Desktop\דסי גנוט\BeverageVendingMachine\bin\Debug\net6.0-windows\BeverageVendingMachine.exe
+C:\Users\גנוט הדסה\Desktop\דסי גנוט\BeverageVendingMachine\bin\Debug\net6.0-windows\BeverageVendingMachine.deps.json
+C:\Users\גנוט הדסה\Desktop\דסי גנוט\BeverageVendingMachine\bin\Debug\net6.0-windows\BeverageVendingMachine.runtimeconfig.json
+C:\Users\גנוט הדסה\Desktop\דסי גנוט\BeverageVendingMachine\bin\Debug\net6.0-windows\BeverageVendingMachine.dll
+C:\Users\גנוט הדסה\Desktop\דסי גנוט\BeverageVendingMachine\bin\Debug\net6.0-windows\BeverageVendingMachine.pdb
+C:\Users\גנוט הדסה\Desktop\דסי גנוט\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.csproj.AssemblyReference.cache
+C:\Users\גנוט הדסה\Desktop\דסי גנוט\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.Form1.resources
+C:\Users\גנוט הדסה\Desktop\דסי גנוט\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.csproj.GenerateResource.cache
+C:\Users\גנוט הדסה\Desktop\דסי גנוט\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\גנוט הדסה\Desktop\דסי גנוט\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.AssemblyInfoInputs.cache
+C:\Users\גנוט הדסה\Desktop\דסי גנוט\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.AssemblyInfo.cs
+C:\Users\גנוט הדסה\Desktop\דסי גנוט\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\גנוט הדסה\Desktop\דסי גנוט\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.dll
+C:\Users\גנוט הדסה\Desktop\דסי גנוט\BeverageVendingMachine\obj\Debug\net6.0-windows\refint\BeverageVendingMachine.dll
+C:\Users\גנוט הדסה\Desktop\דסי גנוט\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.pdb
+C:\Users\גנוט הדסה\Desktop\דסי גנוט\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.genruntimeconfig.cache
+C:\Users\גנוט הדסה\Desktop\דסי גנוט\BeverageVendingMachine\obj\Debug\net6.0-windows\ref\BeverageVendingMachine.dll
+F:\design patterns\BeverageVendingMachine\bin\Debug\net6.0-windows\BeverageVendingMachine.exe
+F:\design patterns\BeverageVendingMachine\bin\Debug\net6.0-windows\BeverageVendingMachine.deps.json
+F:\design patterns\BeverageVendingMachine\bin\Debug\net6.0-windows\BeverageVendingMachine.runtimeconfig.json
+F:\design patterns\BeverageVendingMachine\bin\Debug\net6.0-windows\BeverageVendingMachine.dll
+F:\design patterns\BeverageVendingMachine\bin\Debug\net6.0-windows\BeverageVendingMachine.pdb
+F:\design patterns\BeverageVendingMachine\bin\Debug\net6.0-windows\FluentAssertions.dll
+F:\design patterns\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.csproj.AssemblyReference.cache
+F:\design patterns\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.Form1.resources
+F:\design patterns\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.csproj.GenerateResource.cache
+F:\design patterns\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+F:\design patterns\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.AssemblyInfoInputs.cache
+F:\design patterns\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.AssemblyInfo.cs
+F:\design patterns\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.csproj.CoreCompileInputs.cache
+F:\design patterns\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.csproj.CopyComplete
+F:\design patterns\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.dll
+F:\design patterns\BeverageVendingMachine\obj\Debug\net6.0-windows\refint\BeverageVendingMachine.dll
+F:\design patterns\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.pdb
+F:\design patterns\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.genruntimeconfig.cache
+F:\design patterns\BeverageVendingMachine\obj\Debug\net6.0-windows\ref\BeverageVendingMachine.dll
+F:\להעתיק\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.csproj.AssemblyReference.cache
+F:\להעתיק\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.Assist.resources
+F:\להעתיק\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.csproj.GenerateResource.cache
+F:\להעתיק\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+F:\להעתיק\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.AssemblyInfoInputs.cache
+F:\להעתיק\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.AssemblyInfo.cs
+F:\להעתיק\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.csproj.CoreCompileInputs.cache
+F:\להעתיק\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.dll
+F:\להעתיק\BeverageVendingMachine\obj\Debug\net6.0-windows\refint\BeverageVendingMachine.dll
+F:\להעתיק\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.pdb
+F:\להעתיק\BeverageVendingMachine\bin\Debug\net6.0-windows\BeverageVendingMachine.exe
+F:\להעתיק\BeverageVendingMachine\bin\Debug\net6.0-windows\BeverageVendingMachine.deps.json
+F:\להעתיק\BeverageVendingMachine\bin\Debug\net6.0-windows\BeverageVendingMachine.runtimeconfig.json
+F:\להעתיק\BeverageVendingMachine\bin\Debug\net6.0-windows\BeverageVendingMachine.dll
+F:\להעתיק\BeverageVendingMachine\bin\Debug\net6.0-windows\BeverageVendingMachine.pdb
+F:\להעתיק\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.genruntimeconfig.cache
+F:\להעתיק\BeverageVendingMachine\obj\Debug\net6.0-windows\ref\BeverageVendingMachine.dll
+H:\Design Patterns Project\BeverageVendingMachine\bin\Debug\net6.0-windows\BeverageVendingMachine.exe
+H:\Design Patterns Project\BeverageVendingMachine\bin\Debug\net6.0-windows\BeverageVendingMachine.deps.json
+H:\Design Patterns Project\BeverageVendingMachine\bin\Debug\net6.0-windows\BeverageVendingMachine.runtimeconfig.json
+H:\Design Patterns Project\BeverageVendingMachine\bin\Debug\net6.0-windows\BeverageVendingMachine.dll
+H:\Design Patterns Project\BeverageVendingMachine\bin\Debug\net6.0-windows\BeverageVendingMachine.pdb
+H:\Design Patterns Project\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.csproj.AssemblyReference.cache
+H:\Design Patterns Project\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.Assist.resources
+H:\Design Patterns Project\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.csproj.GenerateResource.cache
+H:\Design Patterns Project\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+H:\Design Patterns Project\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.AssemblyInfoInputs.cache
+H:\Design Patterns Project\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.AssemblyInfo.cs
+H:\Design Patterns Project\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.csproj.CoreCompileInputs.cache
+H:\Design Patterns Project\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.dll
+H:\Design Patterns Project\BeverageVendingMachine\obj\Debug\net6.0-windows\refint\BeverageVendingMachine.dll
+H:\Design Patterns Project\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.pdb
+H:\Design Patterns Project\BeverageVendingMachine\obj\Debug\net6.0-windows\BeverageVendingMachine.genruntimeconfig.cache
+H:\Design Patterns Project\BeverageVendingMachine\obj\Debug\net6.0-windows\ref\BeverageVendingMachine.dll

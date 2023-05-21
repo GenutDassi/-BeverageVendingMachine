@@ -1,0 +1,1901 @@
+11:6:6ice coffee has begiging order
+11:6:6puring water and milk into a cup
+11:6:6adding 2 ts of sugar and 2 ts of coffee
+11:6:7crackers have been orderd
+11:7:2cold cup of chocolatemilk has begiging order
+11:7:3puring water and milk into a cup
+11:7:3adding 1 ts of sugar and 2 ts of chocolate milk powder
+11:7:3ice coffee has begiging order
+11:7:3puring water and milk into a cup
+11:7:3adding 2 ts of sugar and 2 ts of coffee
+11:7:3puring water and milk into a cup
+11:7:3addind 1 teaspoon of coffee
+11:7:4puring water and milk into a cup
+11:7:4addind 1 teaspoon of coffee
+11:7:4bisly has been orderd
+11:7:4shuggi has been orderd
+11:7:4orange juice bottole has been orderd
+11:7:4cold cup of chocolatemilk has begiging order
+11:7:4puring water and milk into a cup
+11:7:4adding 1 ts of sugar and 2 ts of chocolate milk powder
+11:7:4ice coffee has begiging order
+11:7:4puring water and milk into a cup
+11:7:4adding 2 ts of sugar and 2 ts of coffee
+11:7:4puring water and milk into a cup
+11:7:4addind 1 teaspoon of coffee
+11:7:4puring water and milk into a cup
+11:7:5addind 1 teaspoon of coffee
+11:7:5bisly has been orderd
+11:7:5shuggi has been orderd
+11:7:5orange juice bottole has been orderd
+11:7:5cold cup of chocolatemilk has begiging order
+11:7:5puring water and milk into a cup
+11:7:5adding 1 ts of sugar and 2 ts of chocolate milk powder
+11:7:5ice coffee has begiging order
+11:7:5puring water and milk into a cup
+11:7:5adding 2 ts of sugar and 2 ts of coffee
+11:7:5puring water and milk into a cup
+11:7:5addind 1 teaspoon of coffee
+11:7:6puring water and milk into a cup
+11:7:6addind 1 teaspoon of coffee
+11:7:6bisly has been orderd
+11:7:6shuggi has been orderd
+11:7:6orange juice bottole has been orderd
+11:7:6cold cup of chocolatemilk has begiging order
+11:7:6puring water and milk into a cup
+11:7:6adding 1 ts of sugar and 2 ts of chocolate milk powder
+11:7:6ice coffee has begiging order
+11:7:6puring water and milk into a cup
+11:7:6adding 2 ts of sugar and 2 ts of coffee
+11:7:7puring water and milk into a cup
+11:7:7addind 1 teaspoon of coffee
+11:7:7puring water and milk into a cup
+11:7:7addind 1 teaspoon of coffee
+11:7:7bisly has been orderd
+11:7:7shuggi has been orderd
+11:7:7orange juice bottole has been orderd
+11:7:7cold cup of chocolatemilk has begiging order
+11:7:7puring water and milk into a cup
+11:7:7adding 1 ts of sugar and 2 ts of chocolate milk powder
+11:7:7ice coffee has begiging order
+11:7:7puring water and milk into a cup
+11:7:7adding 2 ts of sugar and 2 ts of coffee
+11:7:7puring water and milk into a cup
+11:7:7addind 1 teaspoon of coffee
+11:7:8puring water and milk into a cup
+11:7:8addind 1 teaspoon of coffee
+11:7:8bisly has been orderd
+11:7:8shuggi has been orderd
+11:7:8orange juice bottole has been orderd
+11: 30: 25
+cold cup of chocolatemilk has begiging order
+11: 30: 26
+puring water and milk into a cup
+11: 30: 26
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+11: 30: 26
+puring water and milk into a cup
+11: 30: 26
+addind 1 teaspoon of coffee
+11: 31: 22
+puring water and milk into a cup
+11: 31: 22
+adding 2 ts of sugar and 2 ts of coffee
+11: 31: 22
+bisly has been orderd
+11: 31: 22
+puring water and milk into a cup
+11: 31: 22
+addind 1 teaspoon of coffee
+11: 31: 22
+puring water and milk into a cup
+11: 31: 22
+addind 1 teaspoon of sugar
+11: 44: 40
+cold cup of chocolatemilk has begiging order
+11: 44: 40
+puring water and milk into a cup
+11: 44: 41
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+11: 44: 41
+puring water and milk into a cup
+11: 44: 41
+addind 1 teaspoon of sugar
+11: 44: 41
+coka-cola bottole has been orderd
+11: 47: 29
+bamba has been orderd
+11: 49: 55
+bamba has been orderd
+11: 52: 43
+bamba has been orderd
+11: 54: 18
+bamba has been orderd
+11: 56: 51
+bamba has been orderd
+11: 57: 33
+bamba has been orderd
+12: 3: 8
+bamba has been orderd
+12: 4: 50
+bamba has been orderd
+12: 4: 51
+bamba has been orderd
+12: 6: 41
+puring water and milk into a cup
+12: 6: 41
+adding 2 ts of sugar and 2 ts of coffee
+12: 6: 41
+puring water and milk into a cup
+12: 6: 41
+addind 1 teaspoon of sugar
+12: 6: 41
+puring water and milk into a cup
+12: 6: 42
+addind 1 teaspoon of coffee
+12: 6: 42
+choclote has been orderd
+12: 6: 42
+cookies have been orderd
+12: 47: 13
+ice coffee has begiging order
+12: 47: 13
+puring water and milk into a cup
+12: 47: 13
+adding 2 ts of sugar and 2 ts of coffee
+12: 47: 13
+puring water and milk into a cup
+12: 47: 14
+addind 1 teaspoon of sugar
+12: 47: 14
+cold cup of chocolatemilk has begiging order
+12: 47: 14
+puring water and milk into a cup
+12: 47: 14
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+12: 47: 14
+puring water and milk into a cup
+12: 47: 14
+addind 1 teaspoon of coffee
+12: 47: 14
+puring water and milk into a cup
+12: 47: 14
+addind 1 teaspoon of sugar
+12: 47: 14
+cookies have been orderd
+12: 47: 14
+coka-cola bottole has been orderd
+12: 47: 14
+coka-cola bottole has been orderd
+12: 47: 14
+coka-cola bottole has been orderd
+12: 47: 14
+coka-cola bottole has been orderd
+12: 53: 26
+puring water and milk into a cup
+12: 53: 26
+adding 2 ts of sugar and 2 ts of coffee
+12: 53: 26
+puring water and milk into a cup
+12: 53: 26
+addind 1 teaspoon of sugar
+12: 53: 26
+puring water and milk into a cup
+12: 53: 26
+addind 1 teaspoon of coffee
+12: 53: 26
+cookies have been orderd
+12: 54: 9
+puring water and milk into a cup
+12: 54: 9
+adding 2 ts of sugar and 2 ts of coffee
+12: 54: 9
+puring water and milk into a cup
+12: 54: 9
+addind 1 teaspoon of coffee
+12: 54: 32
+cold cup of chocolatemilk has begiging order
+12: 54: 32
+puring water and milk into a cup
+12: 54: 32
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+12: 54: 32
+puring water and milk into a cup
+12: 54: 33
+adding 2 ts of sugar and 2 ts of coffee
+12: 55: 33
+cold cup of chocolatemilk has begiging order
+12: 55: 34
+puring water and milk into a cup
+12: 55: 34
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+12: 55: 34
+puring water and milk into a cup
+12: 55: 34
+addind 1 teaspoon of coffee
+13: 5: 52
+puring water and milk into a cup
+13: 5: 52
+adding 2 ts of sugar and 2 ts of coffee
+13: 5: 52
+puring water and milk into a cup
+13: 5: 52
+addind 1 teaspoon of sugar
+13: 6: 3
+puring water and milk into a cup
+13: 6: 3
+adding 2 ts of sugar and 2 ts of coffee
+13: 6: 3
+puring water and milk into a cup
+13: 6: 3
+addind 1 teaspoon of sugar
+13: 6: 3
+crackers have been orderd
+13: 9: 16
+puring water and milk into a cup
+13: 9: 16
+adding 2 ts of sugar and 2 ts of coffee
+13: 9: 16
+puring water and milk into a cup
+13: 9: 16
+addind 1 teaspoon of sugar
+13: 11: 10
+puring water and milk into a cup
+13: 11: 10
+adding 2 ts of sugar and 2 ts of coffee
+13: 11: 56
+puring water and milk into a cup
+13: 11: 56
+adding 2 ts of sugar and 2 ts of coffee
+13: 12: 32
+puring water and milk into a cup
+13: 12: 32
+adding 2 ts of sugar and 2 ts of coffee
+13: 13: 39
+puring water and milk into a cup
+13: 13: 39
+adding 2 ts of sugar and 2 ts of coffee
+13: 16: 6
+puring water and milk into a cup
+13: 16: 7
+adding 2 ts of sugar and 2 ts of coffee
+13: 16: 22
+puring water and milk into a cup
+13: 16: 22
+adding 2 ts of sugar and 2 ts of coffee
+13: 17: 14
+cold cup of chocolatemilk has begiging order
+13: 17: 15
+puring water and milk into a cup
+13: 17: 15
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+13: 18: 26
+cold cup of chocolatemilk has begiging order
+13: 18: 26
+puring water and milk into a cup
+13: 18: 26
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+13: 18: 26
+puring water and milk into a cup
+13: 18: 26
+addind 1 teaspoon of sugar
+13: 18: 35
+cold cup of chocolatemilk has begiging order
+13: 18: 35
+puring water and milk into a cup
+13: 18: 35
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+13: 18: 35
+puring water and milk into a cup
+13: 18: 35
+addind 1 teaspoon of sugar
+13: 18: 35
+puring water and milk into a cup
+13: 18: 35
+addind 1 teaspoon of coffee
+13: 18: 36
+cold cup of chocolatemilk has begiging order
+13: 18: 36
+puring water and milk into a cup
+13: 18: 36
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+13: 18: 36
+puring water and milk into a cup
+13: 18: 36
+addind 1 teaspoon of sugar
+13: 18: 36
+puring water and milk into a cup
+13: 18: 36
+addind 1 teaspoon of coffee
+13: 18: 36
+cold cup of chocolatemilk has begiging order
+13: 18: 37
+puring water and milk into a cup
+13: 18: 37
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+13: 18: 37
+puring water and milk into a cup
+13: 18: 37
+addind 1 teaspoon of sugar
+13: 18: 37
+puring water and milk into a cup
+13: 18: 37
+addind 1 teaspoon of coffee
+13: 19: 2
+cold cup of chocolatemilk has begiging order
+13: 19: 2
+puring water and milk into a cup
+13: 19: 2
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+13: 19: 2
+puring water and milk into a cup
+13: 19: 2
+addind 1 teaspoon of coffee
+13: 19: 18
+cold cup of chocolatemilk has begiging order
+13: 19: 18
+puring water and milk into a cup
+13: 19: 18
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+13: 19: 23
+cold cup of chocolatemilk has begiging order
+13: 19: 23
+puring water and milk into a cup
+13: 19: 23
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+13: 19: 23
+puring water and milk into a cup
+13: 19: 23
+addind 1 teaspoon of sugar
+13: 19: 29
+cold cup of chocolatemilk has begiging order
+13: 19: 30
+puring water and milk into a cup
+13: 19: 30
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+13: 19: 30
+puring water and milk into a cup
+13: 19: 30
+addind 1 teaspoon of sugar
+13: 19: 30
+puring water and milk into a cup
+13: 19: 30
+adding 2 ts of sugar and 2 ts of coffee
+13: 19: 30
+puring water and milk into a cup
+13: 19: 30
+addind 1 teaspoon of sugar
+13: 19: 30
+cold cup of chocolatemilk has begiging order
+13: 19: 30
+puring water and milk into a cup
+13: 19: 31
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+13: 19: 31
+puring water and milk into a cup
+13: 19: 31
+addind 1 teaspoon of sugar
+13: 19: 31
+puring water and milk into a cup
+13: 19: 31
+adding 2 ts of sugar and 2 ts of coffee
+13: 19: 31
+puring water and milk into a cup
+13: 19: 31
+addind 1 teaspoon of sugar
+13: 19: 31
+cold cup of chocolatemilk has begiging order
+13: 19: 31
+puring water and milk into a cup
+13: 19: 31
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+13: 19: 31
+puring water and milk into a cup
+13: 19: 31
+addind 1 teaspoon of sugar
+13: 19: 31
+puring water and milk into a cup
+13: 19: 31
+adding 2 ts of sugar and 2 ts of coffee
+13: 19: 31
+puring water and milk into a cup
+13: 19: 31
+addind 1 teaspoon of sugar
+13: 21: 35
+cold cup of chocolatemilk has begiging order
+13: 21: 35
+puring water and milk into a cup
+13: 21: 35
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+13: 21: 59
+cold cup of chocolatemilk has begiging order
+13: 21: 59
+puring water and milk into a cup
+13: 21: 59
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+13: 21: 59
+puring water and milk into a cup
+13: 21: 59
+addind 1 teaspoon of coffee
+13: 29: 34
+puring water and milk into a cup
+13: 29: 34
+adding 2 ts of sugar and 2 ts of coffee
+13: 30: 13
+cold cup of chocolatemilk has begiging order
+13: 30: 13
+puring water and milk into a cup
+13: 30: 14
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+13: 30: 14
+addind 1 teaspoon of coffee
+13: 31: 3
+cold cup of chocolatemilk has begiging order
+13: 31: 4
+puring water and milk into a cup
+13: 31: 4
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+13: 31: 5
+puring water and milk into a cup
+13: 31: 5
+addind 1 teaspoon of coffee
+13: 31: 36
+puring water and milk into a cup
+13: 31: 36
+addind 1 teaspoon of sugar
+13: 31: 38
+puring water and milk into a cup
+13: 31: 38
+addind 1 teaspoon of sugar
+13: 32: 28
+puring water and milk into a cup
+13: 32: 29
+addind 1 teaspoon of coffee
+13: 38: 4
+cold cup of chocolatemilk has begiging order
+13: 38: 4
+puring water and milk into a cup
+13: 38: 4
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+13: 45: 21
+cold cup of chocolatemilk has begiging order
+13: 45: 21
+puring water and milk into a cup
+13: 45: 21
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+13: 45: 48
+addind 1 teaspoon of sugar
+13: 46: 47
+puring water and milk into a cup
+13: 46: 47
+adding 2 ts of sugar and 2 ts of coffee
+13: 47: 31
+addind 1 teaspoon of coffee
+13: 47: 52
+addind 1 teaspoon of coffee
+13: 50: 23
+puring water and milk into a cup
+13: 50: 23
+adding 2 ts of sugar and 2 ts of coffee
+13: 50: 26
+puring water and milk into a cup
+13: 50: 26
+adding 2 ts of sugar and 2 ts of coffee
+13: 50: 27
+puring water and milk into a cup
+13: 50: 27
+adding 2 ts of sugar and 2 ts of coffee
+13: 51: 24
+puring water and milk into a cup
+13: 51: 24
+adding 2 ts of sugar and 2 ts of coffee
+13: 52: 50
+puring water and milk into a cup
+13: 52: 50
+adding 2 ts of sugar and 2 ts of coffee
+13: 52: 50
+addind 1 teaspoon of sugar
+13: 53: 14
+cold cup of chocolatemilk has begiging order
+13: 53: 15
+puring water and milk into a cup
+13: 53: 15
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+13: 53: 15
+addind 1 teaspoon of coffee
+13: 53: 15
+addind 1 teaspoon of coffee
+13: 55: 32
+cold cup of chocolatemilk has begiging order
+13: 55: 32
+puring water and milk into a cup
+13: 55: 32
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+13: 55: 32
+addind 1 teaspoon of sugar
+13: 55: 46
+puring water and milk into a cup
+13: 55: 52
+adding 2 ts of sugar and 2 ts of coffee
+13: 55: 53
+addind 1 teaspoon of sugar
+13: 56: 27
+puring water and milk into a cup
+13: 56: 27
+adding 2 ts of sugar and 2 ts of coffee
+13: 56: 28
+addind 1 teaspoon of coffee
+13: 57: 16
+puring water and milk into a cup
+13: 57: 16
+adding 2 ts of sugar and 2 ts of coffee
+13: 57: 16
+addind 1 teaspoon of coffee
+14: 0: 51
+puring water and milk into a cup
+14: 0: 51
+adding 2 ts of sugar and 2 ts of coffee
+14: 0: 51
+water is boiling
+14: 0: 51
+addind 1 teaspoon of sugar
+14: 1: 52
+puring water and milk into a cup
+14: 1: 52
+adding 2 ts of sugar and 2 ts of coffee
+14: 1: 52
+water is boiling
+14: 1: 52
+addind 1 teaspoon of sugar
+14: 5: 40
+puring water and milk into a cup
+14: 5: 40
+adding 2 ts of sugar and 2 ts of coffee
+14: 5: 40
+water is boiling
+14: 5: 40
+addind 1 teaspoon of sugar
+14: 26: 33
+puring water and milk into a cup
+14: 26: 33
+adding 2 ts of sugar and 2 ts of coffee
+14: 26: 33
+water is boiling
+14: 26: 33
+addind 1 teaspoon of sugar
+14: 26: 33
+addind 1 teaspoon of coffee
+14: 26: 33
+cookies have been orderd
+14: 26: 33
+coka-cola bottole has been orderd
+14: 30: 35
+puring water and milk into a cup
+14: 30: 35
+adding 2 ts of sugar and 2 ts of coffee
+14: 30: 35
+water is boiling
+14: 30: 35
+addind 1 teaspoon of coffee
+14: 35: 32
+cold cup of chocolatemilk has begiging order
+14: 35: 32
+puring water and milk into a cup
+14: 35: 32
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+14: 35: 32
+adding ice cubes
+14: 35: 32
+addind 1 teaspoon of coffee
+14: 35: 38
+cold cup of chocolatemilk has begiging order
+14: 35: 38
+puring water and milk into a cup
+14: 35: 38
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+14: 35: 38
+adding ice cubes
+14: 35: 38
+addind 1 teaspoon of coffee
+14: 35: 38
+shuggi has been orderd
+14: 35: 38
+choclote has been orderd
+14: 35: 39
+cold cup of chocolatemilk has begiging order
+14: 35: 39
+puring water and milk into a cup
+14: 35: 39
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+14: 35: 39
+adding ice cubes
+14: 35: 39
+addind 1 teaspoon of coffee
+14: 35: 39
+shuggi has been orderd
+14: 35: 39
+choclote has been orderd
+14: 35: 46
+cold cup of chocolatemilk has begiging order
+14: 35: 47
+puring water and milk into a cup
+14: 35: 47
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+14: 35: 47
+adding ice cubes
+14: 35: 47
+addind 1 teaspoon of coffee
+14: 35: 47
+shuggi has been orderd
+14: 35: 47
+choclote has been orderd
+14: 35: 47
+cold cup of chocolatemilk has begiging order
+14: 35: 47
+puring water and milk into a cup
+14: 35: 47
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+14: 35: 47
+adding ice cubes
+14: 35: 47
+cold cup of chocolatemilk has begiging order
+14: 35: 47
+puring water and milk into a cup
+14: 35: 48
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+14: 35: 48
+adding ice cubes
+14: 35: 48
+addind 1 teaspoon of coffee
+14: 35: 48
+shuggi has been orderd
+14: 35: 48
+choclote has been orderd
+14: 35: 48
+cold cup of chocolatemilk has begiging order
+14: 35: 48
+puring water and milk into a cup
+14: 35: 48
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+14: 35: 48
+adding ice cubes
+14: 35: 48
+cold cup of chocolatemilk has begiging order
+14: 35: 48
+puring water and milk into a cup
+14: 35: 48
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+14: 35: 48
+adding ice cubes
+14: 35: 48
+addind 1 teaspoon of coffee
+14: 35: 48
+shuggi has been orderd
+14: 35: 48
+choclote has been orderd
+14: 35: 48
+cold cup of chocolatemilk has begiging order
+14: 35: 49
+puring water and milk into a cup
+14: 35: 49
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+14: 35: 49
+adding ice cubes
+14: 35: 49
+cold cup of chocolatemilk has begiging order
+14: 35: 49
+puring water and milk into a cup
+14: 35: 49
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+14: 35: 49
+adding ice cubes
+14: 35: 49
+addind 1 teaspoon of coffee
+14: 35: 49
+shuggi has been orderd
+14: 35: 49
+choclote has been orderd
+14: 35: 49
+cold cup of chocolatemilk has begiging order
+14: 35: 49
+puring water and milk into a cup
+14: 35: 49
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+14: 35: 49
+adding ice cubes
+14: 35: 49
+cold cup of chocolatemilk has begiging order
+14: 35: 50
+puring water and milk into a cup
+14: 35: 50
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+14: 35: 50
+adding ice cubes
+14: 35: 50
+addind 1 teaspoon of coffee
+14: 35: 50
+shuggi has been orderd
+14: 35: 50
+choclote has been orderd
+14: 35: 50
+cold cup of chocolatemilk has begiging order
+14: 35: 50
+puring water and milk into a cup
+14: 35: 50
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+14: 35: 50
+adding ice cubes
+14: 35: 50
+cold cup of chocolatemilk has begiging order
+14: 35: 50
+puring water and milk into a cup
+14: 35: 50
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+14: 35: 50
+adding ice cubes
+14: 35: 50
+addind 1 teaspoon of coffee
+14: 35: 50
+shuggi has been orderd
+14: 35: 50
+choclote has been orderd
+14: 35: 50
+cold cup of chocolatemilk has begiging order
+14: 35: 51
+puring water and milk into a cup
+14: 35: 51
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+14: 35: 51
+adding ice cubes
+14: 35: 51
+cold cup of chocolatemilk has begiging order
+14: 35: 51
+puring water and milk into a cup
+14: 35: 51
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+14: 35: 51
+adding ice cubes
+14: 35: 51
+addind 1 teaspoon of coffee
+14: 35: 51
+shuggi has been orderd
+14: 35: 51
+choclote has been orderd
+14: 35: 51
+cold cup of chocolatemilk has begiging order
+14: 35: 51
+puring water and milk into a cup
+14: 35: 51
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+14: 35: 51
+adding ice cubes
+14: 48: 4
+bamba has been orderd
+14: 49: 14
+bamba has been orderd
+14: 49: 41
+bamba has been orderd
+14: 50: 7
+bamba has been orderd
+14: 50: 28
+bamba has been orderd
+14: 56: 46
+puring water and milk into a cup
+14: 56: 46
+adding 2 ts of sugar and 2 ts of coffee
+14: 56: 46
+water is boiling
+14: 58: 13
+choclote has been orderd
+15: 0: 20
+choclote has been orderd
+15: 0: 40
+choclote has been orderd
+15: 4: 35
+chips has been orderd
+15: 5: 44
+cold cup of chocolatemilk has begiging order
+15: 5: 44
+puring water and milk into a cup
+15: 5: 44
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+15: 5: 44
+adding ice cubes
+15: 6: 2
+puring water and milk into a cup
+15: 6: 2
+adding 2 ts of sugar and 2 ts of coffee
+15: 6: 2
+water is boiling
+15: 6: 21
+hot cup of chocolatemilk has begiging order
+15: 6: 21
+puring water and milk into a cup
+15: 6: 21
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+15: 6: 21
+water is boiling
+15: 7: 8
+ice coffee has begiging order
+15: 7: 9
+puring water and milk into a cup
+15: 7: 9
+adding 2 ts of sugar and 2 ts of coffee
+15: 7: 9
+adding ice cubes
+15: 8: 4
+bamba has been orderd
+15: 9: 45
+puring water and milk into a cup
+15: 9: 46
+adding 2 ts of sugar and 2 ts of coffee
+15: 9: 46
+water is boiling
+15: 10: 4
+cold cup of chocolatemilk has begiging order
+15: 10: 4
+puring water and milk into a cup
+15: 10: 4
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+15: 10: 4
+adding ice cubes
+15: 12: 48
+cold cup of chocolatemilk has begiging order
+15: 12: 48
+puring water and milk into a cup
+15: 12: 48
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+15: 12: 48
+adding ice cubes
+15: 14: 9
+ice coffee has begiging order
+15: 14: 9
+puring water and milk into a cup
+15: 14: 9
+adding 2 ts of sugar and 2 ts of coffee
+15: 14: 9
+adding ice cubes
+15: 16: 46
+cold cup of chocolatemilk has begiging order
+15: 16: 46
+puring water and milk into a cup
+15: 16: 46
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+15: 16: 46
+adding ice cubes
+15: 16: 49
+cold cup of chocolatemilk has begiging order
+15: 16: 49
+puring water and milk into a cup
+15: 16: 49
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+15: 16: 49
+adding ice cubes
+15: 16: 49
+choclote has been orderd
+15: 21: 18
+puring water and milk into a cup
+15: 21: 18
+adding 2 ts of sugar and 2 ts of coffee
+15: 21: 18
+water is boiling
+15: 26: 16
+shuggi has been orderd
+15: 27: 6
+puring water and milk into a cup
+15: 27: 6
+adding 2 ts of sugar and 2 ts of coffee
+15: 27: 6
+water is boiling
+15: 27: 6
+addind 1 teaspoon of sugar
+15: 27: 26
+hot cup of chocolatemilk has begiging order
+15: 27: 27
+puring water and milk into a cup
+15: 27: 27
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+15: 27: 27
+water is boiling
+15: 28: 10
+cold cup of chocolatemilk has begiging order
+15: 28: 10
+puring water and milk into a cup
+15: 28: 10
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+15: 28: 10
+adding ice cubes
+15: 28: 10
+addind 1 teaspoon of sugar
+15: 28: 27
+puring water and milk into a cup
+15: 28: 27
+adding 2 ts of sugar and 2 ts of coffee
+15: 28: 27
+water is boiling
+15: 28: 28
+addind 1 teaspoon of coffee
+15: 31: 26
+ice coffee has begiging order
+15: 31: 27
+puring water and milk into a cup
+15: 31: 27
+adding 2 ts of sugar and 2 ts of coffee
+15: 31: 27
+adding ice cubes
+15: 31: 27
+cookies have been orderd
+15: 32: 35
+cold cup of chocolatemilk has begiging order
+15: 32: 36
+puring water and milk into a cup
+15: 32: 36
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+15: 32: 36
+adding ice cubes
+15: 32: 36
+chips has been orderd
+15: 32: 36
+shuggi has been orderd
+15: 33: 13
+cold cup of chocolatemilk has begiging order
+15: 33: 13
+puring water and milk into a cup
+15: 33: 13
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+15: 33: 13
+adding ice cubes
+15: 33: 13
+addind 1 teaspoon of sugar
+15: 33: 59
+hot cup of chocolatemilk has begiging order
+15: 33: 59
+puring water and milk into a cup
+15: 33: 59
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+15: 33: 59
+water is boiling
+15: 33: 59
+addind 1 teaspoon of coffee
+15: 34: 12
+cold cup of chocolatemilk has begiging order
+15: 34: 12
+puring water and milk into a cup
+15: 34: 12
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+15: 34: 12
+adding ice cubes
+15: 34: 12
+addind 1 teaspoon of sugar
+15: 34: 24
+ice coffee has begiging order
+15: 34: 25
+puring water and milk into a cup
+15: 34: 25
+adding 2 ts of sugar and 2 ts of coffee
+15: 34: 25
+adding ice cubes
+15: 34: 25
+addind 1 teaspoon of sugar
+15: 35: 23
+ice coffee has begiging order
+15: 35: 24
+puring water and milk into a cup
+15: 35: 24
+adding 2 ts of sugar and 2 ts of coffee
+15: 35: 24
+adding ice cubes
+15: 35: 58
+ice coffee has begiging order
+15: 35: 59
+puring water and milk into a cup
+15: 35: 59
+adding 2 ts of sugar and 2 ts of coffee
+15: 35: 59
+adding ice cubes
+15: 36: 48
+puring water and milk into a cup
+15: 36: 48
+adding 2 ts of sugar and 2 ts of coffee
+15: 36: 48
+water is boiling
+15: 37: 0
+cold cup of chocolatemilk has begiging order
+15: 37: 0
+puring water and milk into a cup
+15: 37: 0
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+15: 37: 0
+adding ice cubes
+15: 37: 3
+cold cup of chocolatemilk has begiging order
+15: 37: 3
+puring water and milk into a cup
+15: 37: 3
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+15: 37: 3
+adding ice cubes
+15: 37: 3
+hot cup of chocolatemilk has begiging order
+15: 37: 3
+puring water and milk into a cup
+15: 37: 3
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+15: 37: 3
+water is boiling
+15: 37: 7
+cold cup of chocolatemilk has begiging order
+15: 37: 7
+puring water and milk into a cup
+15: 37: 7
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+15: 37: 7
+adding ice cubes
+15: 37: 7
+hot cup of chocolatemilk has begiging order
+15: 37: 7
+puring water and milk into a cup
+15: 37: 7
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+15: 37: 8
+water is boiling
+15: 37: 8
+bamba has been orderd
+15: 37: 11
+cold cup of chocolatemilk has begiging order
+15: 37: 11
+puring water and milk into a cup
+15: 37: 11
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+15: 37: 11
+adding ice cubes
+15: 37: 12
+hot cup of chocolatemilk has begiging order
+15: 37: 12
+puring water and milk into a cup
+15: 37: 12
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+15: 37: 12
+water is boiling
+15: 37: 12
+bamba has been orderd
+15: 37: 12
+bisly has been orderd
+15: 37: 15
+cold cup of chocolatemilk has begiging order
+15: 37: 15
+puring water and milk into a cup
+15: 37: 15
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+15: 37: 15
+adding ice cubes
+15: 37: 15
+hot cup of chocolatemilk has begiging order
+15: 37: 15
+puring water and milk into a cup
+15: 37: 15
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+15: 37: 15
+water is boiling
+15: 37: 15
+bamba has been orderd
+15: 37: 15
+bisly has been orderd
+15: 37: 16
+chips has been orderd
+15: 37: 19
+cold cup of chocolatemilk has begiging order
+15: 37: 19
+puring water and milk into a cup
+15: 37: 19
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+15: 37: 19
+adding ice cubes
+15: 37: 19
+hot cup of chocolatemilk has begiging order
+15: 37: 19
+puring water and milk into a cup
+15: 37: 20
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+15: 37: 20
+water is boiling
+15: 37: 20
+bamba has been orderd
+15: 37: 20
+bisly has been orderd
+15: 37: 20
+chips has been orderd
+15: 37: 20
+cookies have been orderd
+15: 37: 23
+cold cup of chocolatemilk has begiging order
+15: 37: 23
+puring water and milk into a cup
+15: 37: 24
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+15: 37: 24
+adding ice cubes
+15: 37: 24
+hot cup of chocolatemilk has begiging order
+15: 37: 24
+puring water and milk into a cup
+15: 37: 24
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+15: 37: 24
+water is boiling
+15: 37: 24
+bamba has been orderd
+15: 37: 24
+bisly has been orderd
+15: 37: 24
+chips has been orderd
+15: 37: 24
+cookies have been orderd
+15: 37: 24
+crackers have been orderd
+15: 37: 36
+choclote has been orderd
+15: 37: 38
+choclote has been orderd
+15: 37: 38
+shuggi has been orderd
+15: 37: 41
+choclote has been orderd
+15: 37: 41
+shuggi has been orderd
+15: 37: 41
+water bottole has been orderd
+15: 37: 44
+choclote has been orderd
+15: 37: 44
+shuggi has been orderd
+15: 37: 44
+water bottole has been orderd
+15: 37: 44
+orange juice bottole has been orderd
+15: 37: 47
+choclote has been orderd
+15: 37: 47
+shuggi has been orderd
+15: 37: 47
+water bottole has been orderd
+15: 37: 47
+orange juice bottole has been orderd
+15: 37: 47
+coka-cola bottole has been orderd
+15: 38: 35
+crackers have been orderd
+15: 39: 27
+crackers have been orderd
+15: 40: 7
+crackers have been orderd
+15: 40: 59
+cold cup of chocolatemilk has begiging order
+15: 40: 59
+puring water and milk into a cup
+15: 40: 59
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+15: 40: 59
+adding ice cubes
+15: 40: 59
+addind 1 teaspoon of coffee
+15: 41: 8
+cold cup of chocolatemilk has begiging order
+15: 41: 8
+puring water and milk into a cup
+15: 41: 8
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+15: 41: 8
+adding ice cubes
+15: 41: 8
+addind 1 teaspoon of coffee
+15: 41: 8
+shuggi has been orderd
+15: 41: 15
+cold cup of chocolatemilk has begiging order
+15: 41: 15
+puring water and milk into a cup
+15: 41: 15
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+15: 41: 15
+adding ice cubes
+15: 41: 15
+addind 1 teaspoon of coffee
+15: 41: 15
+shuggi has been orderd
+15: 41: 15
+crackers have been orderd
+15: 41: 37
+crackers have been orderd
+15: 42: 19
+crackers have been orderd
+15: 44: 34
+orange juice bottole has been orderd
+15: 44: 34
+coka-cola bottole has been orderd
+15: 44: 34
+water bottole has been orderd
+15: 44: 39
+orange juice bottole has been orderd
+15: 44: 39
+coka-cola bottole has been orderd
+15: 44: 39
+water bottole has been orderd
+15: 44: 58
+orange juice bottole has been orderd
+15: 44: 58
+coka-cola bottole has been orderd
+15: 44: 58
+water bottole has been orderd
+15: 45: 26
+coka-cola bottole has been orderd
+15: 45: 27
+orange juice bottole has been orderd
+15: 45: 27
+shuggi has been orderd
+15: 45: 27
+choclote has been orderd
+15: 45: 27
+coka-cola bottole has been orderd
+15: 45: 27
+orange juice bottole has been orderd
+15: 45: 27
+shuggi has been orderd
+15: 45: 27
+choclote has been orderd
+16: 14: 39
+chips has been orderd
+16: 15: 3
+bisly has been orderd
+16: 28: 57
+crackers have been orderd
+16: 30: 34
+crackers have been orderd
+16: 32: 9
+crackers have been orderd
+16: 33: 44
+bisly has been orderd
+16: 33: 53
+cold cup of chocolatemilk has begiging order
+16: 33: 53
+puring water and milk into a cup
+16: 33: 53
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+16: 33: 53
+adding ice cubes
+16: 34: 2
+hot cup of chocolatemilk has begiging order
+16: 34: 2
+puring water and milk into a cup
+16: 34: 2
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+16: 34: 2
+water is boiling
+16: 34: 11
+cold cup of chocolatemilk has begiging order
+16: 34: 11
+puring water and milk into a cup
+16: 34: 12
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+16: 34: 12
+adding ice cubes
+16: 34: 20
+puring water and milk into a cup
+16: 34: 20
+adding 2 ts of sugar and 2 ts of coffee
+16: 34: 20
+water is boiling
+16: 38: 24
+chips has been orderd
+16: 40: 38
+cold cup of chocolatemilk has begiging order
+16: 40: 38
+puring water and milk into a cup
+16: 40: 38
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+16: 40: 38
+adding ice cubes
+16: 40: 38
+addind 1 teaspoon of coffee
+16: 40: 38
+addind 1 teaspoon of sugar
+16: 40: 53
+hot cup of chocolatemilk has begiging order
+16: 40: 53
+puring water and milk into a cup
+16: 40: 53
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+16: 40: 53
+water is boiling
+16: 40: 53
+chips has been orderd
+16: 40: 53
+cookies have been orderd
+16: 42: 35
+cold cup of chocolatemilk has begiging order
+16: 42: 35
+puring water and milk into a cup
+16: 42: 35
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+16: 42: 35
+adding ice cubes
+16: 42: 35
+crackers have been orderd
+16: 42: 35
+choclote has been orderd
+16: 43: 14
+chips has been orderd
+16: 43: 14
+cold cup of chocolatemilk has begiging order
+16: 43: 14
+puring water and milk into a cup
+16: 43: 15
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+16: 43: 15
+adding ice cubes
+16: 43: 15
+addind 1 teaspoon of sugar
+16: 43: 15
+cookies have been orderd
+16: 43: 15
+coka-cola bottole has been orderd
+16: 51: 22
+puring water and milk into a cup
+16: 51: 23
+adding 2 ts of sugar and 2 ts of coffee
+16: 51: 23
+water is boiling
+16: 51: 23
+addind 1 teaspoon of sugar
+16: 51: 23
+bamba has been orderd
+16: 51: 23
+bisly has been orderd
+16: 51: 23
+crackers have been orderd
+16: 51: 23
+shuggi has been orderd
+16: 51: 23
+orange juice bottole has been orderd
+16: 53: 46
+ice coffee has begiging order
+16: 53: 46
+puring water and milk into a cup
+16: 53: 46
+adding 2 ts of sugar and 2 ts of coffee
+16: 53: 46
+adding ice cubes
+16: 53: 46
+addind 1 teaspoon of sugar
+16: 53: 46
+bisly has been orderd
+16: 53: 46
+crackers have been orderd
+16: 53: 47
+choclote has been orderd
+16: 53: 47
+orange juice bottole has been orderd
+17: 6: 56
+bamba has been orderd
+17: 6: 56
+bisly has been orderd
+17: 6: 56
+ice coffee has begiging order
+17: 6: 56
+puring water and milk into a cup
+17: 6: 56
+adding 2 ts of sugar and 2 ts of coffee
+17: 6: 56
+adding ice cubes
+17: 6: 56
+addind 1 teaspoon of sugar
+17: 6: 56
+addind 1 teaspoon of coffee
+17: 8: 52
+cold cup of chocolatemilk has begiging order
+17: 8: 52
+puring water and milk into a cup
+17: 8: 52
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+17: 8: 52
+adding ice cubes
+17: 11: 19
+cold cup of chocolatemilk has begiging order
+17: 11: 19
+puring water and milk into a cup
+17: 11: 19
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+17: 11: 19
+adding ice cubes
+17: 11: 19
+addind 1 teaspoon of sugar
+17: 11: 19
+crackers have been orderd
+17: 11: 19
+shuggi has been orderd
+17: 26: 58
+crackers have been orderd
+17: 35: 27
+chips has been orderd
+17: 44: 35
+cold cup of chocolatemilk has begiging order
+17: 44: 35
+puring water and milk into a cup
+17: 44: 35
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+17: 44: 35
+adding ice cubes
+17: 44: 35
+addind 1 teaspoon of coffee
+17: 44: 58
+hot cup of chocolatemilk has begiging order
+17: 44: 58
+puring water and milk into a cup
+17: 44: 58
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+17: 44: 58
+water is boiling
+17: 44: 58
+addind 1 teaspoon of coffee
+17: 45: 35
+cold cup of chocolatemilk has begiging order
+17: 45: 35
+puring water and milk into a cup
+17: 45: 35
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+17: 45: 35
+adding ice cubes
+17: 45: 35
+addind 1 teaspoon of coffee
+17: 49: 47
+cold cup of chocolatemilk has begiging order
+17: 49: 47
+puring water and milk into a cup
+17: 49: 47
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+17: 49: 47
+adding ice cubes
+17: 50: 1
+cold cup of chocolatemilk has begiging order
+17: 50: 1
+puring water and milk into a cup
+17: 50: 1
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+17: 50: 1
+adding ice cubes
+17: 50: 1
+addind 1 teaspoon of sugar
+17: 54: 2
+hot cup of chocolatemilk has begiging order
+17: 54: 2
+puring water and milk into a cup
+17: 54: 2
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+17: 54: 2
+water is boiling
+17: 55: 33
+cold cup of chocolatemilk has begiging order
+17: 55: 33
+puring water and milk into a cup
+17: 55: 33
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+17: 55: 33
+adding ice cubes
+17: 55: 33
+addind 1 teaspoon of sugar
+17: 55: 33
+bamba has been orderd
+17: 55: 36
+choclote has been orderd
+17: 56: 8
+cold cup of chocolatemilk has begiging order
+17: 56: 9
+puring water and milk into a cup
+17: 56: 9
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+17: 56: 9
+adding ice cubes
+17: 56: 9
+puring water and milk into a cup
+17: 56: 9
+adding 2 ts of sugar and 2 ts of coffee
+17: 56: 9
+water is boiling
+17: 56: 9
+bisly has been orderd
+17: 56: 9
+bamba has been orderd
+17: 56: 9
+crackers have been orderd
+17: 56: 9
+cookies have been orderd
+17: 56: 46
+chips has been orderd
+17: 56: 46
+bisly has been orderd
+17: 56: 46
+crackers have been orderd
+17: 56: 47
+choclote has been orderd
+17: 57: 5
+chips has been orderd
+17: 57: 5
+bisly has been orderd
+17: 57: 6
+crackers have been orderd
+17: 57: 7
+choclote has been orderd
+17: 57: 7
+coka-cola bottole has been orderd
+18: 7: 22
+cold cup of chocolatemilk has begiging order
+18: 7: 22
+puring water and milk into a cup
+18: 7: 22
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+18: 7: 22
+adding ice cubes
+18: 7: 22
+puring water and milk into a cup
+18: 7: 22
+adding 2 ts of sugar and 2 ts of coffee
+18: 7: 22
+water is boiling
+18: 7: 22
+bisly has been orderd
+18: 7: 22
+addind 1 teaspoon of coffee
+18: 11: 17
+chips has been orderd
+18: 12: 7
+bisly has been orderd
+18: 12: 7
+crackers have been orderd
+18: 12: 36
+bisly has been orderd
+18: 12: 36
+crackers have been orderd
+18: 12: 36
+chips has been orderd
+18: 12: 36
+puring water and milk into a cup
+18: 12: 36
+adding 2 ts of sugar and 2 ts of coffee
+18: 12: 36
+water is boiling
+18: 12: 37
+addind 1 teaspoon of coffee
+18: 12: 37
+chips has been orderd
+18: 12: 37
+crackers have been orderd
+18: 15: 58
+cold cup of chocolatemilk has begiging order
+18: 15: 58
+puring water and milk into a cup
+18: 15: 58
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+18: 15: 58
+adding ice cubes
+18: 15: 58
+bisly has been orderd
+18: 16: 9
+bisly has been orderd
+18: 16: 10
+bamba has been orderd
+18: 16: 10
+cookies have been orderd
+18: 16: 32
+water bottole has been orderd
+18: 16: 32
+shuggi has been orderd
+18: 16: 46
+shuggi has been orderd
+18: 16: 46
+water bottole has been orderd
+18: 19: 6
+orange juice bottole has been orderd
+20: 0: 29
+puring water and milk into a cup
+20: 0: 29
+adding 2 ts of sugar and 2 ts of coffee
+20: 0: 29
+water is boiling
+20: 0: 29
+addind 1 teaspoon of sugar
+20: 0: 37
+cold cup of chocolatemilk has begiging order
+20: 0: 37
+puring water and milk into a cup
+20: 0: 37
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+20: 0: 37
+adding ice cubes
+20: 0: 37
+addind 1 teaspoon of sugar
+20: 0: 51
+crackers have been orderd
+20: 0: 51
+choclote has been orderd
+20: 7: 37
+shuggi has been orderd
+20: 7: 37
+chips has been orderd
+20: 11: 18
+chips has been orderd
+20: 11: 18
+bisly has been orderd
+20: 11: 18
+bamba has been orderd
+20: 11: 18
+cookies have been orderd
+21: 11: 12
+ice coffee has begiging order
+21: 11: 12
+puring water and milk into a cup
+21: 11: 12
+adding 2 ts of sugar and 2 ts of coffee
+21: 11: 12
+adding ice cubes
+21: 11: 12
+bamba has been orderd
+21: 11: 56
+puring water and milk into a cup
+21: 11: 56
+adding 2 ts of sugar and 2 ts of coffee
+21: 11: 56
+water is boiling
+21: 11: 56
+addind 1 teaspoon of coffee
+21: 12: 8
+cold cup of chocolatemilk has begiging order
+21: 12: 8
+puring water and milk into a cup
+21: 12: 8
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+21: 12: 8
+adding ice cubes
+21: 12: 8
+addind 1 teaspoon of sugar
+21: 16: 27
+cold cup of chocolatemilk has begiging order
+21: 16: 27
+puring water and milk into a cup
+21: 16: 27
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+21: 16: 27
+adding ice cubes
+21: 16: 27
+addind 1 teaspoon of coffee
+21: 16: 39
+hot cup of chocolatemilk has begiging order
+21: 16: 39
+puring water and milk into a cup
+21: 16: 39
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+21: 16: 39
+water is boiling
+21: 16: 39
+addind 1 teaspoon of coffee
+21: 26: 55
+ice coffee has begiging order
+21: 26: 55
+puring water and milk into a cup
+21: 26: 55
+adding 2 ts of sugar and 2 ts of coffee
+21: 26: 55
+adding ice cubes
+21: 26: 55
+cookies have been orderd
+22: 15: 38
+ice coffee has begiging order
+22: 15: 38
+puring water and milk into a cup
+22: 15: 38
+adding 2 ts of sugar and 2 ts of coffee
+22: 15: 38
+adding ice cubes
+22: 15: 38
+addind 1 teaspoon of sugar
+22: 15: 38
+addind 1 teaspoon of sugar
+22: 15: 38
+addind 1 teaspoon of sugar
+22: 15: 38
+crackers have been orderd
+22: 15: 38
+coka-cola bottole has been orderd
+22: 20: 13
+hot cup of chocolatemilk has begiging order
+22: 20: 13
+puring water and milk into a cup
+22: 20: 13
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+22: 20: 13
+water is boiling
+22: 20: 13
+cold cup of chocolatemilk has begiging order
+22: 20: 14
+puring water and milk into a cup
+22: 20: 14
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+22: 20: 14
+adding ice cubes
+22: 20: 14
+puring water and milk into a cup
+22: 20: 14
+adding 2 ts of sugar and 2 ts of coffee
+22: 20: 14
+water is boiling
+22: 20: 14
+ice coffee has begiging order
+22: 20: 14
+puring water and milk into a cup
+22: 20: 14
+adding 2 ts of sugar and 2 ts of coffee
+22: 20: 14
+adding ice cubes
+22: 20: 14
+addind 1 teaspoon of sugar
+22: 20: 14
+addind 1 teaspoon of sugar
+22: 20: 14
+addind 1 teaspoon of sugar
+22: 20: 14
+addind 1 teaspoon of sugar
+22: 20: 14
+addind 1 teaspoon of coffee
+22: 20: 14
+addind 1 teaspoon of coffee
+22: 20: 14
+addind 1 teaspoon of coffee
+22: 20: 15
+bamba has been orderd
+22: 20: 15
+bisly has been orderd
+22: 20: 15
+chips has been orderd
+22: 20: 15
+cookies have been orderd
+22: 20: 15
+crackers have been orderd
+22: 20: 15
+choclote has been orderd
+22: 20: 15
+shuggi has been orderd
+22: 20: 15
+water bottole has been orderd
+22: 20: 15
+water bottole has been orderd
+22: 20: 38
+orange juice bottole has been orderd
+22: 20: 38
+coka-cola bottole has been orderd
+22: 21: 30
+puring water and milk into a cup
+22: 21: 30
+adding 2 ts of sugar and 2 ts of coffee
+22: 21: 30
+water is boiling
+22: 21: 30
+addind 1 teaspoon of sugar
+22: 21: 30
+addind 1 teaspoon of sugar
+22: 21: 30
+addind 1 teaspoon of sugar
+22: 21: 31
+addind 1 teaspoon of sugar
+22: 21: 31
+addind 1 teaspoon of sugar
+22: 21: 31
+addind 1 teaspoon of sugar
+22: 21: 31
+addind 1 teaspoon of sugar
+22: 21: 31
+addind 1 teaspoon of sugar
+22: 21: 31
+addind 1 teaspoon of sugar
+22: 21: 31
+addind 1 teaspoon of coffee
+22: 21: 31
+addind 1 teaspoon of coffee
+22: 21: 31
+addind 1 teaspoon of coffee
+22: 21: 31
+addind 1 teaspoon of coffee
+22: 21: 31
+addind 1 teaspoon of coffee
+22: 21: 31
+addind 1 teaspoon of coffee
+22: 21: 31
+addind 1 teaspoon of coffee
+22: 21: 31
+addind 1 teaspoon of coffee
+22: 21: 31
+shuggi has been orderd
+22: 21: 31
+choclote has been orderd
+22: 21: 46
+ice coffee has begiging order
+22: 21: 46
+puring water and milk into a cup
+22: 21: 46
+adding 2 ts of sugar and 2 ts of coffee
+22: 21: 46
+adding ice cubes
+22: 21: 46
+ice coffee has begiging order
+22: 21: 46
+puring water and milk into a cup
+22: 21: 46
+adding 2 ts of sugar and 2 ts of coffee
+22: 21: 46
+adding ice cubes
+22: 21: 54
+puring water and milk into a cup
+22: 21: 54
+adding 2 ts of sugar and 2 ts of coffee
+22: 21: 54
+water is boiling
+22: 22: 0
+cold cup of chocolatemilk has begiging order
+22: 22: 0
+puring water and milk into a cup
+22: 22: 0
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+22: 22: 0
+adding ice cubes
+22: 22: 5
+hot cup of chocolatemilk has begiging order
+22: 22: 5
+puring water and milk into a cup
+22: 22: 5
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+22: 22: 5
+water is boiling
+22: 22: 12
+bamba has been orderd
+22: 22: 21
+bamba has been orderd
+22: 22: 26
+bisly has been orderd
+22: 22: 38
+chips has been orderd
+22: 22: 45
+cookies have been orderd
+23: 36: 22
+ice coffee has begiging order
+23: 36: 23
+puring water and milk into a cup
+23: 36: 23
+adding 2 ts of sugar and 2 ts of coffee
+23: 36: 23
+adding ice cubes
+23: 36: 23
+cold cup of chocolatemilk has begiging order
+23: 36: 23
+puring water and milk into a cup
+23: 36: 23
+adding 1 ts of sugar and 2 ts of chocolate milk powder
+23: 36: 23
+adding ice cubes
+23: 36: 23
+addind 1 teaspoon of sugar
+23: 36: 23
+addind 1 teaspoon of coffee
+23: 36: 23
+bamba has been orderd
+23: 36: 23
+cookies have been orderd
+23: 36: 23
+shuggi has been orderd
+23: 36: 23
+water bottole has been orderd
+23: 36: 23
+coka-cola bottole has been orderd
+23: 39: 43
+chips has been orderd
+23: 42: 25
+chips has been orderd
+23: 57: 36
+bamba has been orderd
